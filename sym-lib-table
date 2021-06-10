@@ -1,7 +1,0 @@
-(sym_lib_table
-  (lib (name DanSTAR_Connectors)(type Legacy)(uri ${KIPRJMOD}/danstar-kicad-lib/symbols/DanSTAR_Connectors.lib)(options "")(descr ""))
-  (lib (name DanSTAR_IC)(type Legacy)(uri ${KIPRJMOD}/danstar-kicad-lib/symbols/DanSTAR_IC.lib)(options "")(descr ""))
-  (lib (name DanSTAR_Passive)(type Legacy)(uri ${KIPRJMOD}/danstar-kicad-lib/symbols/DanSTAR_Passive.lib)(options "")(descr ""))
-  (lib (name DanSTAR_Power)(type Legacy)(uri ${KIPRJMOD}/danstar-kicad-lib/symbols/DanSTAR_Power.lib)(options "")(descr ""))
-  (lib (name REBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/REBoard-rescue.lib)(options "")(descr ""))
-)
